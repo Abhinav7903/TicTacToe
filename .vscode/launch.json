@@ -1,0 +1,52 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Memory",
+      "request": "launch",
+      "mainClass": "Memory",
+      "projectName": "tic_1fec58b0"
+    },
+    {
+      "type": "java",
+      "name": "SubWordChecker",
+      "request": "launch",
+      "mainClass": "SubWordChecker",
+      "projectName": "tic_1fec58b0"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "tic_1fec58b0"
+    },
+    {
+      "type": "java",
+      "name": "MonthNamePrinter",
+      "request": "launch",
+      "mainClass": "MonthNamePrinter",
+      "projectName": "tic_1fec58b0"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/abhinav/VA/tic/src/components/tic-tac-toe",
+      "program": "c:/abhinav/VA/tic/src/components/tic-tac-toe/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
